@@ -1,0 +1,13 @@
+LICENCE
+This software is released under GPLv3 licence. For 
+further information regarding GPL licence, please visit 
+http://www.gnu.org/licenses/gpl.html. Please retain this README file in 
+all further/derrived versions of this program.
+
+NOTES
+The project may be compiled using NetBeans. It was tested in Android SDK
+ emulator (Android 1.5 and 2.2), as well as HTC Desire (both Android 2.1
+ and Android 2.2).
+ 
+CONTACT
+andris dot spruds at gmail dot com

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Numuri</string>
+    <string name="update_start_title">Datu atjaunošana</string>
+    <string name="update_start_desc">Programma nosūtīs datus no tālruņa kontaktu datubāzes uz numuri.lv, iegūstot katra kontakta tīkla operatoru. Vai turpināt?</string>
+    <string name="continue_download">Turpināt</string>
+    <string name="cancel">Atcelt</string>
+    <string name="updating_data">Atjauno datus...</string>
+    <string name="ok">Labi</string>
+    <string name="update_failed_title">Atjaunināšana neizdevās</string>
+    <string name="update_failed_desc">Atjaunināšana neizdevās. Lūdzu pārliecinieties, ka tālrunim ir pieejams Internet pieslēgums.</string>
+    <string name="update_complete_title">Atjaunināšana pabeigta</string>
+    <string name="update_complete_desc">Atjaunināšana veiksmīgi pabeigta. Tagad, zvanot kontaktiem, tiks rādīts tīkla operatora nosaukums.</string>
+</resources>
