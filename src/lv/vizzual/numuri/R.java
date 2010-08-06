@@ -19,8 +19,7 @@ public final class R {
         public static final int logo_lmt=0x7f020005;
         public static final int logo_tele2=0x7f020006;
         public static final int logo_triatel=0x7f020007;
-        public static final int sdcard_bg=0x7f020008;
-        public static final int toast_bg=0x7f020009;
+        public static final int toast_bg=0x7f020008;
     }
     public static final class id {
         public static final int networkOperatorValue=0x7f050002;

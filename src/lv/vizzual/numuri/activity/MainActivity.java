@@ -216,12 +216,7 @@ public class MainActivity extends Activity {
             }
             finally {
                 if(db != null) {
-                    try {
-                        db.close();
-                    }
-                    catch(RuntimeException t) {
-                        throw t;
-                    }
+                    db.close();
                 }
             }
         }
